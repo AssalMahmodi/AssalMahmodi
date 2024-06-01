@@ -1,6 +1,6 @@
 ### Asal Mahmodi Nejhad
 ### Focus: Python & Ai
-### applied mathematics, Guilan University
+### Applied Mathematics, Guilan University
 
 <!--
 **AssalMahmodi/AssalMahmodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
